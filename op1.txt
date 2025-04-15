@@ -1,0 +1,6 @@
+P, Machine Learning, 2270
+P, Artificial Intelligence, 2260
+D, Operating Systems, 2233
+R, Machine Learning, 2270
+P, Computer Networks, 2250
+Q, Salir, 0

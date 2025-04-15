@@ -1,0 +1,6 @@
+P, Operating Systems, 2233
+R, Programming Languages, 2240
+D, Data Bases, 2234
+P, Computer Networks, 2250
+R, Artificial Intelligence, 2260
+Q, Salir, 0
