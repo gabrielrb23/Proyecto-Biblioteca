@@ -1,0 +1,15 @@
+P, Machine Learning, 2270
+P, Artificial Intelligence, 2260
+D, Operating Systems, 2233
+R, Machine Learning, 2270
+P, Computer Networks, 2250
+D, Data Bases, 2234
+R, Operating Systems, 2233
+P, Programming Languages, 2240
+D, Artificial Intelligence, 2260
+P, Data Bases, 2234
+R, Data Bases, 2234
+P, Operating Systems, 2233
+D, Machine Learning, 2270
+P, Computer Networks, 2250
+Q, Salir, 0
