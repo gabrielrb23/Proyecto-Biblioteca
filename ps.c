@@ -1,3 +1,16 @@
+/**************************************************************
+*	Pontificia Universidad Javeriana
+*	Autor: Gabriel Riaño y Dary Palacios
+*	Materia: Sistemas Operativos
+*	Fecha: 26/5/2025
+*	Descripción: Este programa actúa como cliente del sistema,
+*   permitiendo a los usuarios enviar solicitudes al servidor
+*   mediante un menú interactivo. Soporta operaciones manuales
+*   o automatizadas (lectura desde archivo con -i). Se comunica
+*   con el servidor a través de pipes FIFO, muestra respuestas
+*   recibidas y gestiona la terminación ordenada del servicio.
+**************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

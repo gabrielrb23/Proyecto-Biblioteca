@@ -1,3 +1,17 @@
+/**************************************************************
+*	Pontificia Universidad Javeriana
+*	Autor: Gabriel Riaño y Dary Palacios
+*	Materia: Sistemas Operativos
+*	Fecha: 26/5/2025
+*	Descripción: Este programa implementa el servidor del sistema
+*   de préstamos de libros de la biblioteca. Gestiona solicitudes
+*   de préstamo, devolución, renovación y salida  recibidas a través
+*   de pipes FIFO. Utiliza un buffer circular con semáforos para
+*   procesar solicitudes de forma concurrente, actualiza la base
+*   de datos de libros al cambiar estados y fechas, y soporta comandos
+*   administrativos como generación de reportes ('r') o terminación ('s').
+**************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
